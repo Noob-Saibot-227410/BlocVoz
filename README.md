@@ -12,7 +12,7 @@ O projeto utiliza a API Web Speech do navegador para fazer o reconhecimento de f
 
  <img src="https://img.icons8.com/color/48/000000/nodejs.png">
  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-
+ <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 <h1>Como executar o projeto</h1>
 Para executar o projeto em sua própria máquina, siga os passos abaixo:
