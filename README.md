@@ -10,7 +10,8 @@ O projeto utiliza a API Web Speech do navegador para fazer o reconhecimento de f
 <h1>Tecnologias utilizadas</h1>
 <p>O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 
-<img src="https://img.icons8.com/color/48/000000/python.png">
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png">
+ <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
 
 <h1>Como executar o projeto</h1>
