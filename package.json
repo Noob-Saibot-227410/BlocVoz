@@ -1,0 +1,11 @@
+{
+    "name": "bloco-de-notas-de-voz",
+    "version": "1.0.0",
+    "description": "Um bloco de notas de voz que salva o texto ditado em um arquivo.",
+    "main": "server.js",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1"
+    }
+  }
+  
