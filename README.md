@@ -4,8 +4,14 @@ BlocVoz é um projeto que tem como objetivo oferecer uma alternativa mais fácil
 
 O projeto utiliza a API Web Speech do navegador para fazer o reconhecimento de fala e inserir o texto na tela. Além disso, também possui funcionalidades para salvar as notas criadas e recuperá-las posteriormente.
 
-<img src="1.PNG">
-<img src="2.PNG">
+<img src="imgs/1.PNG">
+<img src="imgs/2.PNG">
+
+<h1>Tecnologias utilizadas</h1>
+<p>O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
+
+<img src="https://img.icons8.com/color/48/000000/python.png">
+
 
 <h1>Como executar o projeto</h1>
 Para executar o projeto em sua própria máquina, siga os passos abaixo:
